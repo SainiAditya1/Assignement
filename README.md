@@ -47,6 +47,7 @@ This assignment involves creating a dynamic dashboard/widget system using JSON. 
     }
   ]
 }
+```
 
 ## Setup and Run Locally
 
